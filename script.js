@@ -15,6 +15,7 @@ const FUNDRAISERS = {
   k1184: "Roksana Żak",
   k1183: "Natalia Kurys",
   k1216: "Kacper Bułak",
+  k1170: "Alicja Ziółek",
 };
 
 const input = document.getElementById("consultantCode");
