@@ -6,15 +6,15 @@ const FUNDRAISERS = {
   k460: "Kamil Warzocha",
   k446: "Kamila Mazurek",
   k900: "Agata Reguła",
-  k1082: "Róża Sałkowska",
   k1041: "Małgorzata Gawrońska",
   k1051: "Dominika Sural",
   k888: "Magdalena Bendec",
   k777: "Karolina Prusińska",
   k999: "Piotr Bilik",
-  k1169: "Maria Kabala",
-  k1170: "Alicja Ziółek",
-  k1171: "Paweł Olszewski"
+  k689: "Natalia Cieciuch",
+  k1184: "Roksana Żak",
+  k1183: "Natalia Kurys",
+  k1216: "Kacper Bułak",
 };
 
 const input = document.getElementById("consultantCode");
