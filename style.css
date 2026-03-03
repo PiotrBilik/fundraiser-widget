@@ -17,20 +17,17 @@
 
 body {
   margin: 0;
-  padding: 14px;
+  padding: 8px;
   font-family: "Avenir Next", "Segoe UI", "Noto Sans", sans-serif;
   color: var(--ink);
-  background:
-    radial-gradient(circle at 10% 10%, #e6fffa 0, #e6fffa 20%, transparent 48%),
-    radial-gradient(circle at 90% 90%, #e9f5ff 0, #e9f5ff 18%, transparent 46%),
-    #f7fbfc;
+  background: transparent;
 }
 
 .widget {
   width: min(100%, 320px);
   margin: 0 auto;
-  padding: 16px;
-  border-radius: 16px;
+  padding: 14px;
+  border-radius: 14px;
   border: 1px solid var(--border);
   background: linear-gradient(180deg, #ffffff 0%, var(--panel) 100%);
   box-shadow: 0 10px 30px rgba(16, 42, 67, 0.12);
@@ -52,14 +49,14 @@ body {
 
 h1 {
   margin: 0;
-  font-size: 20px;
+  font-size: 18px;
   line-height: 1.25;
 }
 
 .intro {
-  margin: 6px 0 14px;
+  margin: 4px 0 10px;
   color: var(--muted);
-  font-size: 14px;
+  font-size: 13px;
   line-height: 1.45;
 }
 
@@ -73,8 +70,8 @@ label {
 
 input {
   width: 100%;
-  padding: 10px 12px;
-  margin-bottom: 10px;
+  padding: 9px 11px;
+  margin-bottom: 8px;
   border: 1px solid var(--border);
   border-radius: 10px;
   font-size: 15px;
@@ -90,7 +87,7 @@ input:focus {
 
 button {
   width: 100%;
-  padding: 10px;
+  padding: 9px;
   border: 0;
   border-radius: 12px;
   font-size: 15px;
@@ -115,13 +112,13 @@ button:active {
 }
 
 .result {
-  margin: 10px 0 0;
-  min-height: 46px;
-  padding: 10px;
+  margin: 8px 0 0;
+  min-height: 40px;
+  padding: 9px;
   border-radius: 10px;
   text-align: center;
   background: #f1f5f9;
-  font-size: 14px;
+  font-size: 13px;
   border: 1px solid #d9e2ec;
   color: #334e68;
   animation: fade-in 260ms ease both;
