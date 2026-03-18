@@ -7,7 +7,6 @@ const FUNDRAISERS = {
   k446: "Kamila Mazurek",
   k900: "Agata Reguła",
   k1041: "Małgorzata Gawrońska",
-  k1051: "Dominika Sural",
   k888: "Magdalena Bendec",
   k777: "Karolina Prusińska",
   k999: "Piotr Bilik",
