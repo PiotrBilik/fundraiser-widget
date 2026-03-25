@@ -7,14 +7,15 @@ const FUNDRAISERS = {
   k446: "Kamila Mazurek",
   k900: "Agata Reguła",
   k1041: "Małgorzata Gawrońska",
-  k888: "Magdalena Bendec",
-  k777: "Karolina Prusińska",
-  k999: "Piotr Bilik",
+  k888: "Iwona Konieczna",
+  k777: "Dagmara Selent",
+  k555: "Nina Gębczyńska",
+  k444: "Aleksandra Lis",
   k689: "Natalia Cieciuch",
-  k1184: "Roksana Żak",
   k1183: "Natalia Kurys",
   k1216: "Kacper Bułak",
   k1170: "Alicja Ziółek",
+  k1184: "Roksana Żak",
 };
 
 const input = document.getElementById("consultantCode");
