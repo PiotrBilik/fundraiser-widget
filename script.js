@@ -14,7 +14,6 @@ const FUNDRAISERS = {
   k689: "Natalia Cieciuch",
   k1183: "Natalia Kurys",
   k1216: "Kacper Bułak",
-  k1170: "Alicja Ziółek",
   k1184: "Roksana Żak",
 };
 
