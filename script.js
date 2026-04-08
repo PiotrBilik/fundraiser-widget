@@ -15,6 +15,7 @@ const FUNDRAISERS = {
   k1183: "Natalia Kurys",
   k1216: "Kacper Bułak",
   k1184: "Roksana Żak",
+  k1221: "Artur Lewandowski",
 };
 
 const input = document.getElementById("consultantCode");
