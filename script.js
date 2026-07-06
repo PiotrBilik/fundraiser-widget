@@ -18,6 +18,7 @@ const FUNDRAISERS = {
   k1221: "Artur Lewandowski",
   k1268: "Maja Bilińska",
   k1269: "Wiktoria Wilkowska",
+  k0641: "test",
 };
 
 const input = document.getElementById("consultantCode");
