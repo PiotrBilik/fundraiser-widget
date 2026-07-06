@@ -16,6 +16,8 @@ const FUNDRAISERS = {
   k1216: "Kacper Bułak",
   k1184: "Roksana Żak",
   k1221: "Artur Lewandowski",
+  k1268: "Maja Bilińska",
+  k1269: "Wiktoria Wilkowska",
 };
 
 const input = document.getElementById("consultantCode");
