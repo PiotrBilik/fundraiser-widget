@@ -10,7 +10,7 @@ const FUNDRAISERS = {
   k689: "Natalia Cieciuch",
   k1268: "Maja Bilińska",
   k1269: "Wiktoria Wilkowska",
-  k0641: "test",
+  k1262: "Wiktoria Oponecka",
 };
 
 const input = document.getElementById("consultantCode");
