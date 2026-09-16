@@ -11,6 +11,8 @@ const FUNDRAISERS = {
   k1268: "Maja Bilińska",
   k1269: "Wiktoria Wilkowska",
   k1262: "Wiktoria Oponecka",
+  k1281: "Zuzanna Zalewska",
+  
 };
 
 const input = document.getElementById("consultantCode");
