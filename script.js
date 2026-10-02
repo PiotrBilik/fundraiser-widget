@@ -8,8 +8,6 @@ const FUNDRAISERS = {
   k888: "Iwona Konieczna",
   k555: "Nina Gębczyńska",
   k689: "Natalia Cieciuch",
-  k1268: "Maja Bilińska",
-  k1269: "Wiktoria Wilkowska",
   k1262: "Wiktoria Oponecka",
   k1281: "Zuzanna Zalewska",
   
